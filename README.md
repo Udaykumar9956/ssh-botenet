@@ -106,8 +106,10 @@ Gracefully closes all SSH sessions
 Exits the application
 📸 Screenshots
 Example output from the Botnet Control Panel:
+![Image](https://github.com/user-attachments/assets/e273bdb2-7315-4b1f-8826-43582ae38102)
 
-
+![Image](https://github.com/user-attachments/assets/75e7147d-4db0-4f27-b088-dd62768fe2ef)
+![Image](https://github.com/user-attachments/assets/962a55ff-9d33-4f50-b149-d50681fca68e)
 
 👨‍💻 Author
 Koppoju Uday Kumr
